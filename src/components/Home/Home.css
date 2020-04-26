@@ -1,0 +1,9 @@
+.home{
+    background-image: url("../../images/welcome.jpg");
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  resize: both;
+  width: 100%;
+}

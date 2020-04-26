@@ -1,12 +1,37 @@
 .bio{
-width:70vw;
+width:100vw;
 font-size: 20px;
 line-height: 1.6;
 margin-left:auto;
 margin-right:auto;
 text-align: justify;
+padding-left:100px;
+padding-right:100px;
+height:100vh;
+
+
+
+
+background-image: url('../../images/island.jpg');
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  
+  resize: both;
+  
 }
 
+.about-me{
+/* background: #282c34;  */
+background: white;
+opacity: 0.7;
+color:#282c34;
+font-weight: 900;
+padding:200px;
+padding-top:100px;
+}
 .bio h2{
     text-align: center;
 }
