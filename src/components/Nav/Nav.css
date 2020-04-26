@@ -1,0 +1,32 @@
+nav *{
+    font-size:20px;
+}
+
+nav{
+    display:flex;
+    justify-content: space-between;
+  }
+  
+  nav ul{ 
+    display:flex;
+    justify-content: center;
+    list-style-type:none;
+  }
+  
+  nav li{
+    margin-right:20px;
+  }
+  
+  @media all and (min-width:768px) {
+  
+  nav ul{
+    justify-content: flex-end;
+    font-size:20px;
+    margin-right:100px;
+  
+  }
+  nav li{
+    margin-right:100px;
+  }
+  }
+  
