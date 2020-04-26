@@ -19,13 +19,16 @@ a:hover{
   /* background: #282c34; */
   background-image: url('./images/welcome.jpg');
   background-size: 100vw;
-
-  min-height: 100vh;
+height:100vh;
+  /* min-height: 100vh; */
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
   color: white;
   font-family: 'Poppins', sans-serif;
 }
