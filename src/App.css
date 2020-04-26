@@ -18,19 +18,19 @@ a:hover{
 .App-header {
   /* background: #282c34; */
   background-image: url('./images/welcome.jpg');
-  
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
+  background-repeat: no-repeat;
 height:100vh;
-  /* min-height: 100vh; */
+  
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  /* font-size: calc(10px + 2vmin); */
+  font-size: calc(10px + 2vmin); 
   
-  background-repeat: no-repeat;
+  
   margin-left:auto;
   margin-right:auto;
   color: white;
