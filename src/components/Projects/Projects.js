@@ -16,46 +16,62 @@ class Projects extends Component {
             two others.
           </p>
           <p>
-            {" "}
             The idea of the site was to create a social network where people
             could save their thoughts on anything and choose to share with
             others or keep them private. It is a way to develop meaningful
             thoughts over social media rather that wasting time which is
-            prevelant today.</p>
-            <p>Technology:
-              <ul>
-                <li>React</li>
-                <li>Node.js</li>
-                <li>PostgreSQL</li>
-                <li>Express.js</li>
-                <li>Styled Components</li>
-              </ul>
-            </p>
-            <br />
-            <a
-            className='project-links'
-              rel="noopener noreferrer"
-              target="_blank"
-              href="https://folkul.now.sh"
-            >
-              Visit Folkul live
-            </a>
-            <br />
-            <a
-            className='project-links'
-              rel="noopener noreferrer"
-              target="_blank"
-              href="https://github.com/kraigwilliams/motive-client"
-            >
-              Folkul Github Repo{" "}
-            </a>
-            <br />
-            <img
-              className="screenshots"
-              alt="folkul desktop screenshot"
-              src={folkulDestop}
-            />
+            prevelant today.
+          </p>
+          <p>
+            Technology:
+            <ul className="tech">>
+              <li>
+                
+                <i class="fas fa-star"></i>
+                React
+              </li>
+              <li>
+                <i class="fas fa-star"></i>
+                Node.js
+              </li>
+              <li>
+                <i class="fas fa-star"></i>
+                PostgreSQL
+              </li>
+              <li>
+                <i class="fas fa-star"></i>
+                Express.js
+              </li>
+              <li>
+                <i class="fas fa-star"></i>
+                Styled Components
+              </li>
+            </ul>
+          </p>
+          <p className='links'>
+          <a
+            className="project-links"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://folkul.now.sh"
+          >
+            Visit Folkul live
+          </a>
           
+          <a
+            className="project-links"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://github.com/kraigwilliams/motive-client"
+          >
+            Folkul Github Repo
+          </a>
+        </p>
+          <img
+            className="screenshots"
+            alt="folkul desktop screenshot"
+            src={folkulDestop}
+          />
         </div>
         <div>
           <h2>Overlays </h2>
@@ -63,32 +79,35 @@ class Projects extends Component {
             Note Saving Application that allows users to enter any url they
             visited on the web and save notes about that webpage
           </p>
-          <p>Technology:
-              <ul>
-                <li>React</li>
-                <li>Node.js</li>
-                <li>PostgreSQL</li>
-                <li>Express.js</li>
-                
-              </ul>
-            </p>
-          <a className='project-links'
+          <p>
+            Technology:
+            <ul className="tech">>
+              <li> <i class="fas fa-star"></i> React</li>
+              <li> <i class="fas fa-star"></i>Node.js</li>
+              <li><i class="fas fa-star"></i>PostgreSQL</li>
+              <li><i class="fas fa-star"></i>Express.js</li>
+            </ul>
+          </p>
+          <p className='links'>
+          <a
+            className="project-links"
             rel="noopener noreferrer"
             target="_blank"
             href="https://overlays.now.sh"
           >
             Visit Overlays live
           </a>
-          <br />
+          
           <a
-          className='project-links'
+            className="project-links"
             rel="noopener noreferrer"
             target="_blank"
             href="https://github.com/kraigwilliams/overlays-app"
           >
-            Overlays Github Repo{" "}
+            Overlays Github Repo
           </a>
-          <br />
+          </p>
+          
           <img
             className="screenshots"
             alt="overlays desktop screenshot"
@@ -98,43 +117,54 @@ class Projects extends Component {
         <div>
           <h2>Spanimal</h2>
           <p className="descriptions">
-            App that teaches users spanish translations of animals{" "}
+            App that teaches users spanish translations of animals
           </p>
-          <p>Technology:
-              <ul className='tech'>
-                <li>React</li>
-                <li>Node.js</li>
-                <li>PostgreSQL</li> 
-                <li>Express.js</li>
-                <li>Cypress.js</li>
-              </ul>
-            </p>
+          <p>
+            Technology:
+            <ul className="tech">
+              <li><i class="fas fa-star"></i>
+
+React</li>
+              <li><i class="fas fa-star"></i>
+
+Node.js</li>
+              <li><i class="fas fa-star"></i>
+
+PostgreSQL</li>
+              <li><i class="fas fa-star"></i>
+
+Express.js</li>
+              <li><i class="fas fa-star"></i>
+
+Cypress.js</li>
+            </ul>
+          </p>
+          <p className='links'>
           <a
-          className='project-links'
+            className="project-links"
             rel="noopener noreferrer"
             target="_blank"
             href="https://spanimal.now.sh"
           >
             Visit Spanimals Live
           </a>
-          <br />
+          
           <a
-          className='project-links'
+            className="project-links"
             rel="noopener noreferrer"
             target="_blank"
             href="https://github.com/tpic12/spanimal-client"
           >
-            Spanimal Github Repo{" "}
+            Spanimal Github Repo
           </a>
+          </p>
           <h3>Screenshots</h3>
-          
-            
-            <img
-              className="screenshots"
-              alt="spanimals mobile screenshot"
-              src={spanimalsMobile}
-            />
-          
+
+          <img
+            className="screenshots"
+            alt="spanimals mobile screenshot"
+            src={spanimalsMobile}
+          />
         </div>
       </section>
     );

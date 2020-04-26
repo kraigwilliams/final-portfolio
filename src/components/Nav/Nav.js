@@ -10,7 +10,9 @@ class Nav extends Component{
 
 <li><Link to ='/about-me'>About Me</Link></li>
 <li><Link to ='/projects'>Projects</Link></li>
-<li><a  href="mailto:williamskrg@live.com"> Contact Me</a></li>      </ul>
+<li><a  href="mailto:williamskrg@live.com"><i class="fas fa-envelope"></i>
+
+Contact Me</a></li>      </ul>
               </nav>
         )
     }

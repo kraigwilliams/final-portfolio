@@ -2,11 +2,13 @@
   text-align: center;
   background: lightcyan;
 height:100%;
-margin-bottom:200px;
+/* margin-bottom:200px; */
 }
 
 a{
-  color:lightgrey;
+  /* color:mistyrose; */
+  /* color:middlebluegreen;   */
+  color:#006D77;
 }
 a:hover{
   color:lightsalmon;

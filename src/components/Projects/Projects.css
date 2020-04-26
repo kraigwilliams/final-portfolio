@@ -5,6 +5,9 @@
     margin-right:auto;
 }
 
+.fa-star{
+    margin-right: 20px;
+}
 .screenshots{
     text-align:center;
     width:300px;
@@ -32,5 +35,15 @@
 }
 
 .project-links{
-    color:red;
+    /* color:#E29578; */
+    /* color:#3066BE; */
+    color:#DD6E42;
+    margin-bottom: 20px;
+    
+}
+
+.links{
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
 }
