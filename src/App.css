@@ -18,7 +18,10 @@ a:hover{
 .App-header {
   /* background: #282c34; */
   background-image: url('./images/welcome.jpg');
-  background-size: contain;
+  
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
 height:100vh;
   /* min-height: 100vh; */
   display: flex;
@@ -35,6 +38,10 @@ height:100vh;
   resize: both;
   width:100%;
 }
-
+/* @media all and (min-width:768px){
+  .App-header{
+    background-size: 100vw;
+  }
+} */
 
 
