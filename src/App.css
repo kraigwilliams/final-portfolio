@@ -18,19 +18,22 @@ a:hover{
 .App-header {
   /* background: #282c34; */
   background-image: url('./images/welcome.jpg');
-  background-size: 100vw;
+  background-size: contain;
 height:100vh;
   /* min-height: 100vh; */
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  
+  /* font-size: calc(10px + 2vmin); */
+  background-position: right top;
   background-repeat: no-repeat;
-  
+  margin-left:auto;
+  margin-right:auto;
   color: white;
   font-family: 'Poppins', sans-serif;
+  resize: both;
+  width:100%;
 }
 
 
