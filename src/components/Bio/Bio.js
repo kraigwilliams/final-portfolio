@@ -3,7 +3,7 @@ import './Bio.css';
 
 class Bio extends Component{
     render(){
-        document.title= 'About Me- Kraig Williams Portfolio';
+        document.title= 'About Me - Kraig Williams Portfolio';
         return(
             <section className='bio'>
                 <div className='about-me'>
