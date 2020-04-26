@@ -18,7 +18,8 @@ a:hover{
 .App-header {
   /* background: #282c34; */
   background-image: url('./images/welcome.jpg');
-  background-size: cover;
+  background-size: 100vw;
+
   min-height: 100vh;
   display: flex;
   flex-direction: column;
