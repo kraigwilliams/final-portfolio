@@ -24,7 +24,7 @@ class Projects extends Component {
           </p>
           <span>Technology:</span>
           <ul className="tech">
-            >
+            
             <li>
               <i className="fas fa-star"></i>
               React
