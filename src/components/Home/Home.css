@@ -10,7 +10,7 @@
 
 .home-hero {
   background: #282c34;
-  opacity: 0.9;
+  /* opacity: 0.9; */
   height: 100vh;
 
   display: flex;
