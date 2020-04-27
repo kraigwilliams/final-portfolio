@@ -2,17 +2,18 @@
   text-align: center;
   background: lightcyan;
   height: 100%;
-  /* margin-bottom:200px; */
+  
 }
 
 a {
-  /* color:mistyrose; */
-  /* color:middlebluegreen;   */
-  color: #006d77;
+  color: lightsalmon;
+  
+    /* color:middlebluegreen;   */
+  /* color: #006d77; */
 }
 a:hover {
   transform: scale(1.2);
-  color: lightsalmon;
+  
 }
 
 
