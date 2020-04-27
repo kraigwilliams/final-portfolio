@@ -5,6 +5,7 @@
     margin-right:auto;
     padding-left:3%vw;
     padding-right:3%vw;
+    overflow-x: auto;
 }
 
 .fa-star{
