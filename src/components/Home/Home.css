@@ -9,7 +9,7 @@
 }
 
 .home-hero {
-  background: #282c34; 
+  background: #282c34;
   opacity: 0.7;
   height: 100vh;
 
@@ -25,12 +25,13 @@ font-size:50px;
   font-family: "Poppins", sans-serif;
   resize: both;
   width: 100%;
+  padding-top:20px;
   padding-left:10vw;
   padding-right:10vw;
   line-height: 0.7em;
 }
 
 .home a{
-  color:lightsalmon;;
+  color:lightsalmon;
 text-decoration: underline;
 }
