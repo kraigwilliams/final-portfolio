@@ -38,9 +38,7 @@
 .bio h2 {
   text-align: center;
 }
-main{
-  height:100%;
-}
+
 
 @media all and (min-width:768px){
  .bio{

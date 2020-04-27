@@ -1,3 +1,32 @@
 footer{
     margin-top:50px;
 }
+
+.icon-bar a {
+    margin: 0px;
+    width: 30%;
+    text-align: center;
+    padding: 12px 0;
+    transition: all 0.3s ease;
+  
+    font-size: 20px;
+  }
+  
+  .icon-bar a:hover {
+    background-color: #000;
+  }
+  
+  .icon-bar {
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    position: fixed;
+  
+    background:lightcyan;
+    /* background:white; */
+    /* overflow: auto; */
+    /* color: white; */
+  }
