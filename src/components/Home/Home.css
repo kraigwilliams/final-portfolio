@@ -28,3 +28,8 @@ font-size:50px;
   padding-left:10vw;
   padding-right:10vw;
 }
+
+.home a{
+  color:lightsalmon;;
+text-decoration: underline;
+}

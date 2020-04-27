@@ -8,7 +8,7 @@ class Home extends Component{
     render(){
         document.title= 'Introduction - Kraig Williams Portfolio';
         return(
-          <section className='home'>
+          <section aria-label='Kraig Williams Developer Portfolio' className='home'>
             <div className="home-hero">
             <h1>Hi, I'm Kraig</h1>
             <p>I'm a FullStack Javascript Developer</p>
