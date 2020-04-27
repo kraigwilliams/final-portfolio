@@ -23,16 +23,23 @@ font-size:50px;
   margin-right: auto;
   color: white;
   font-family: "Poppins", sans-serif;
-  resize: both;
+  /* resize: both; */
   width: 100%;
-  padding-top:30px;
-  padding-bottom:30px;
+  /* padding-top:30px; */
+  /* padding-bottom:30px; */
   padding-left:10vw;
   padding-right:10vw;
-  line-height: 0.7em;
+  
 }
 
 .home a{
   color:lightsalmon;
 text-decoration: underline;
+}
+
+@media all and ( min-width:1024px ) {
+  .home-hero{
+    line-height:0.6em;
+    
+  }
 }
