@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./Projects.css";
-import spanimalsMobile from "../../images/spanimals-mobile.png";
+import spanimalsMobile from "../../images/spanimals-desktop.png";
 import folkulDestop from "../../images/folkul-desktop.png";
 import overlaysDesktop from "../../images/overlays-desktop.png";
 

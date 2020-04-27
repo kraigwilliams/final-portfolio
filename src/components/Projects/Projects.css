@@ -14,8 +14,8 @@
 }
 .screenshots{
     text-align:center;
-    height:500px;
-    width:150px;
+    
+    width:200px;
      margin-left:auto;
     margin-right:auto; 
 }
@@ -23,7 +23,7 @@
 @media all and (min-width:768px){
     .screenshots{
         height:500px;
-        width:30vw;
+        width:100%;
     }
 }
 
