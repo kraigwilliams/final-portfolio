@@ -16,8 +16,8 @@ class Nav extends Component {
             <Link to="/projects">Projects</Link>
           </li>
           <li>
-            <a href="mailto:williamskrg@live.com">
-              
+            <a href="mailto:williamskrg@live.com ">
+             
               Contact Me
             </a>
           </li>

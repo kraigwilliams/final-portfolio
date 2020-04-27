@@ -126,9 +126,9 @@ class Projects extends Component {
           />
         </div>
         <div aria-label='Spanimal Project'>
-          <h2>Spanimal</h2>
+          <h2>Spanimals</h2>
           <p className="descriptions">
-            Spanimal is pp that teaches users Spanish translations of animals. It was developed my myself and one other developer of the space of one week. It utilizes the linked list data structure to implement the concept of 
+            Spanimals is pp that teaches users Spanish translations of animals. It was developed my myself and one other developer of the space of one week. It utilizes the linked list data structure to implement the concept of 
             spaced repition to present users with words that they haven't mastered more often that words that they have. It is for use by anyone 
             who wants to spend their free time doing something meaningful by learning a few foreign language words.
           </p>
@@ -171,7 +171,7 @@ class Projects extends Component {
               target="_blank"
               href="https://github.com/tpic12/spanimal-client"
             >
-              Spanimal Github Repo
+              Spanimals Github Repo
             </a>
           </p>
           <h3>Screenshot</h3>
