@@ -8,8 +8,8 @@ class Projects extends Component {
   render() {
     document.title = "Best Projects - Kraig Williams Portfolio";
     return (
-      <section className="projects">
-        <div>
+      <section aria-label='list of my projects'className="projects">
+        <div aria-label='Folkul Project'>
           <h2>Folkul</h2>
           <p className="descriptions">
             Social Network site created over three weeks in a team of myself and
@@ -71,7 +71,7 @@ class Projects extends Component {
             src={folkulDestop}
           />
         </div>
-        <div>
+        <div aria-label='Overlays Project'>
           <h2>Overlays </h2>
           <p className="descriptions">
             Note Saving Application that allows users to enter any url they
@@ -122,11 +122,11 @@ class Projects extends Component {
             src={overlaysDesktop}
           />
         </div>
-        <div>
+        <div aria-label='Spanimal Project'>
           <h2>Spanimal</h2>
           <p className="descriptions">
             App that teaches users spanish translations of animals. Utilizes the linked list data structure to implement the concept of 
-            spaced repition.
+            spaced repition to present users with words that they haven't mastered more often that words that they have.
           </p>
           <span>Technology:</span>
           <ul className="tech">
