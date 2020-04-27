@@ -22,32 +22,32 @@ class Projects extends Component {
             thoughts over social media rather that wasting time which is
             prevelant today.
           </p>
-          <p>
+          
             Technology:
             <ul className="tech">>
               <li>
                 
-                <i class="fas fa-star"></i>
+                <i className="fas fa-star"></i>
                 React
               </li>
               <li>
-                <i class="fas fa-star"></i>
+                <i className="fas fa-star"></i>
                 Node.js
               </li>
               <li>
-                <i class="fas fa-star"></i>
+                <i className="fas fa-star"></i>
                 PostgreSQL
               </li>
               <li>
-                <i class="fas fa-star"></i>
+                <i className="fas fa-star"></i>
                 Express.js
               </li>
               <li>
-                <i class="fas fa-star"></i>
+                <i className="fas fa-star"></i>
                 Styled Components
               </li>
             </ul>
-          </p>
+          
           <p className='links'>
           <a
             className="project-links"
@@ -79,15 +79,15 @@ class Projects extends Component {
             Note Saving Application that allows users to enter any url they
             visited on the web and save notes about that webpage
           </p>
-          <p>
+          
             Technology:
-            <ul className="tech">>
-              <li> <i class="fas fa-star"></i> React</li>
-              <li> <i class="fas fa-star"></i>Node.js</li>
-              <li><i class="fas fa-star"></i>PostgreSQL</li>
-              <li><i class="fas fa-star"></i>Express.js</li>
+            <ul className="tech">
+              <li> <i className="fas fa-star"></i> React</li>
+              <li> <i className="fas fa-star"></i>Node.js</li>
+              <li><i className="fas fa-star"></i>PostgreSQL</li>
+              <li><i className="fas fa-star"></i>Express.js</li>
             </ul>
-          </p>
+          
           <p className='links'>
           <a
             className="project-links"
@@ -119,26 +119,26 @@ class Projects extends Component {
           <p className="descriptions">
             App that teaches users spanish translations of animals
           </p>
-          <p>
+          
             Technology:
             <ul className="tech">
-              <li><i class="fas fa-star"></i>
+              <li><i className="fas fa-star"></i>
 
 React</li>
-              <li><i class="fas fa-star"></i>
+              <li><i className="fas fa-star"></i>
 
 Node.js</li>
-              <li><i class="fas fa-star"></i>
+              <li><i className="fas fa-star"></i>
 
 PostgreSQL</li>
-              <li><i class="fas fa-star"></i>
+              <li><i className="fas fa-star"></i>
 
 Express.js</li>
-              <li><i class="fas fa-star"></i>
+              <li><i className="fas fa-star"></i>
 
 Cypress.js</li>
             </ul>
-          </p>
+        
           <p className='links'>
           <a
             className="project-links"

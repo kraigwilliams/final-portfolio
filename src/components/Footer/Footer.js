@@ -5,7 +5,7 @@ class Footer extends Component{
     render(){
         return(
             <footer>
-            <div class="icon-bar">
+            <div className="icon-bar">
               <a
                 id="contact"
                 aria-label="send me and email"
@@ -13,7 +13,7 @@ class Footer extends Component{
                 rel="noopener noreferrer"
                 target="_blank"
               >
-                <i class="fa fa-envelope"></i>
+                <i className="fa fa-envelope"></i>
               </a>
               <a
                 href="https://www.linkedin.com/in/kraig-williams-b62789186"
@@ -21,7 +21,7 @@ class Footer extends Component{
                 rel="noopener noreferrer"
                 target="_blank"
               >
-                <i class="fab fa-linkedin-in"></i>
+                <i className="fab fa-linkedin-in"></i>
               </a>
               <a
                 href="https://github.com/kraigwilliams"
@@ -29,7 +29,7 @@ class Footer extends Component{
                 rel="noopener noreferrer"
                 target="_blank"
               >
-                <i class="fab fa-github"></i>
+                <i className="fab fa-github"></i>
               </a>
             </div>
           </footer>

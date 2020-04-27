@@ -3,9 +3,9 @@
     width:60vw;
     margin-left:auto;
     margin-right:auto;
-    padding-left:3%vw;
-    padding-right:3%vw;
-    overflow-x: auto;
+    padding-left:10px;
+    padding-right:10px;
+    word-wrap: normal;
 }
 
 .fa-star{
