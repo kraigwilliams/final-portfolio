@@ -13,13 +13,15 @@ class Bio extends Component {
             Caribbean and immigrated to the USA at 21. I first got interested
             development after watching the movie The Social Network about the
             start of Facebook. I loved how people were able to come together on
-            an idea and build it to something that changes then world.
+            an idea and build it to something that changed the world.
             Collaborating with other skilled developers is my favorite thing
-            about development as it brings out the best in me. In m have a
-            passion for options trading in the markets and started coding to
+            about development as it brings out the best in me.</p>
+            <p> Outside of programming I am a huge soccer fan. My favorite team is
+            Manchester United in England. I also have a
+            passion for options trading in the markets and I plan on using my coding skills to
             learn to build trading algorithms for my personal trading strategy.
-            Outside of programming I am a huge soccer fan. My favorite team is
-            Manchester United in England.
+            
+            
           </p>
         </div>
       </section>

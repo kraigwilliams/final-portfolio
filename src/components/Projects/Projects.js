@@ -65,6 +65,7 @@ class Projects extends Component {
               Folkul Github Repo
             </a>
           </p>
+          <h3>Screenshot</h3>
           <img
             className="screenshots"
             alt="folkul desktop screenshot"
@@ -116,6 +117,7 @@ class Projects extends Component {
               Overlays Github Repo
             </a>
           </p>
+          <h3>Screenshot</h3>
           <img
             className="screenshots"
             alt="overlays desktop screenshot"
@@ -170,7 +172,7 @@ class Projects extends Component {
               Spanimal Github Repo
             </a>
           </p>
-          <h3>Screenshots</h3>
+          <h3>Screenshot</h3>
           <img
             className="screenshots"
             alt="spanimals mobile screenshot"
