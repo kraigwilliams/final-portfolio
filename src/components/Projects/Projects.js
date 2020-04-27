@@ -22,51 +22,49 @@ class Projects extends Component {
             thoughts over social media rather that wasting time which is
             prevelant today.
           </p>
-          
-            Technology:
-            <ul className="tech">>
-              <li>
-                
-                <i className="fas fa-star"></i>
-                React
-              </li>
-              <li>
-                <i className="fas fa-star"></i>
-                Node.js
-              </li>
-              <li>
-                <i className="fas fa-star"></i>
-                PostgreSQL
-              </li>
-              <li>
-                <i className="fas fa-star"></i>
-                Express.js
-              </li>
-              <li>
-                <i className="fas fa-star"></i>
-                Styled Components
-              </li>
-            </ul>
-          
-          <p className='links'>
-          <a
-            className="project-links"
-            rel="noopener noreferrer"
-            target="_blank"
-            href="https://folkul.now.sh"
-          >
-            Visit Folkul live
-          </a>
-          
-          <a
-            className="project-links"
-            rel="noopener noreferrer"
-            target="_blank"
-            href="https://github.com/kraigwilliams/motive-client"
-          >
-            Folkul Github Repo
-          </a>
-        </p>
+          <span>Technology:</span>
+          <ul className="tech">
+            >
+            <li>
+              <i className="fas fa-star"></i>
+              React
+            </li>
+            <li>
+              <i className="fas fa-star"></i>
+              Node.js
+            </li>
+            <li>
+              <i className="fas fa-star"></i>
+              PostgreSQL
+            </li>
+            <li>
+              <i className="fas fa-star"></i>
+              Express.js
+            </li>
+            <li>
+              <i className="fas fa-star"></i>
+              JWT
+            </li>
+          </ul>
+          <p className="links">
+            <a
+              className="project-links"
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://folkul.now.sh"
+            >
+              Visit Folkul live
+            </a>
+
+            <a
+              className="project-links"
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://github.com/kraigwilliams/motive-client"
+            >
+              Folkul Github Repo
+            </a>
+          </p>
           <img
             className="screenshots"
             alt="folkul desktop screenshot"
@@ -77,37 +75,47 @@ class Projects extends Component {
           <h2>Overlays </h2>
           <p className="descriptions">
             Note Saving Application that allows users to enter any url they
-            visited on the web and save notes about that webpage
+            visited on the web and save notes about that webpage.
           </p>
-          
-            Technology:
-            <ul className="tech">
-              <li> <i className="fas fa-star"></i> React</li>
-              <li> <i className="fas fa-star"></i>Node.js</li>
-              <li><i className="fas fa-star"></i>PostgreSQL</li>
-              <li><i className="fas fa-star"></i>Express.js</li>
-            </ul>
-          
-          <p className='links'>
-          <a
-            className="project-links"
-            rel="noopener noreferrer"
-            target="_blank"
-            href="https://overlays.now.sh"
-          >
-            Visit Overlays live
-          </a>
-          
-          <a
-            className="project-links"
-            rel="noopener noreferrer"
-            target="_blank"
-            href="https://github.com/kraigwilliams/overlays-app"
-          >
-            Overlays Github Repo
-          </a>
+          <span>Technology:</span>
+          <ul className="tech">
+            <li>
+              {" "}
+              <i className="fas fa-star"></i> React
+            </li>
+            <li>
+              {" "}
+              <i className="fas fa-star"></i>Node.js
+            </li>
+            <li>
+              <i className="fas fa-star"></i>PostgreSQL
+            </li>
+            <li>
+              <i className="fas fa-star"></i>Express.js
+            </li>
+            <li>
+              <i className="fas fa-star"></i>JWT
+            </li>
+          </ul>
+          <p className="links">
+            <a
+              className="project-links"
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://overlays.now.sh"
+            >
+              Visit Overlays live
+            </a>
+
+            <a
+              className="project-links"
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://github.com/kraigwilliams/overlays-app"
+            >
+              Overlays Github Repo
+            </a>
           </p>
-          
           <img
             className="screenshots"
             alt="overlays desktop screenshot"
@@ -117,49 +125,52 @@ class Projects extends Component {
         <div>
           <h2>Spanimal</h2>
           <p className="descriptions">
-            App that teaches users spanish translations of animals
+            App that teaches users spanish translations of animals. Utilizes the linked list data structure to implement the concept of 
+            spaced repition.
           </p>
-          
-            Technology:
-            <ul className="tech">
-              <li><i className="fas fa-star"></i>
+          <span>Technology:</span>
+          <ul className="tech">
+            <li>
+              <i className="fas fa-star"></i>
+              React
+            </li>
+            <li>
+              <i className="fas fa-star"></i>
+              Node.js
+            </li>
+            <li>
+              <i className="fas fa-star"></i>
+              PostgreSQL
+            </li>
+            <li>
+              <i className="fas fa-star"></i>
+              Express.js
+            </li>
+            <li>
+              <i className="fas fa-star"></i>
+              Cypress.js
+            </li>
+          </ul>
+          <p className="links">
+            <a
+              className="project-links"
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://spanimal.now.sh"
+            >
+              Visit Spanimals Live
+            </a>
 
-React</li>
-              <li><i className="fas fa-star"></i>
-
-Node.js</li>
-              <li><i className="fas fa-star"></i>
-
-PostgreSQL</li>
-              <li><i className="fas fa-star"></i>
-
-Express.js</li>
-              <li><i className="fas fa-star"></i>
-
-Cypress.js</li>
-            </ul>
-        
-          <p className='links'>
-          <a
-            className="project-links"
-            rel="noopener noreferrer"
-            target="_blank"
-            href="https://spanimal.now.sh"
-          >
-            Visit Spanimals Live
-          </a>
-          
-          <a
-            className="project-links"
-            rel="noopener noreferrer"
-            target="_blank"
-            href="https://github.com/tpic12/spanimal-client"
-          >
-            Spanimal Github Repo
-          </a>
+            <a
+              className="project-links"
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://github.com/tpic12/spanimal-client"
+            >
+              Spanimal Github Repo
+            </a>
           </p>
           <h3>Screenshots</h3>
-
           <img
             className="screenshots"
             alt="spanimals mobile screenshot"

@@ -17,7 +17,7 @@ class Nav extends Component {
           </li>
           <li>
             <a href="mailto:williamskrg@live.com">
-              <i className="fas fa-envelope"></i>
+              
               Contact Me
             </a>
           </li>
