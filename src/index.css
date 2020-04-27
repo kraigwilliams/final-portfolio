@@ -17,8 +17,8 @@ body {
 }
 
 a:visited {
-  text-decoration: none;
-  color: initial;
+  text-decoration:initial;
+  color: lightsalmon;
 }
 
 body {
