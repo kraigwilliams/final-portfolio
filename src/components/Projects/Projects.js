@@ -12,15 +12,15 @@ class Projects extends Component {
         <div aria-label='Folkul Project'>
           <h2>Folkul</h2>
           <p className="descriptions">
-            Social Network site created over three weeks in a team of myself and
-            two others.
+            Folkul is a social networking site created over three weeks in a team of myself and
+            two other developers.
           </p>
           <p>
             The idea of the site was to create a social network where people
             could save their thoughts on anything and choose to share with
             others or keep them private. It is a way to develop meaningful
-            thoughts over social media rather that wasting time which is
-            prevelant today.
+            thoughts over social media rather that the time wasting which is
+            prevelant today. It is intended for everyone to use to nurture their meaningful thoughts.
           </p>
           <span>Technology:</span>
           <ul className="tech">
@@ -75,9 +75,10 @@ class Projects extends Component {
         <div aria-label='Overlays Project'>
           <h2>Overlays </h2>
           <p className="descriptions">
-            Note Saving Application that allows users to enter any url they
-            visited on the web and save notes about that webpage.
-          </p>
+            Overlays is a commenting/note-saving application that allows users to enter any url they
+            visited on the web and save notes about that webpage. I created this application with a long term goal
+            of turning it into a social network where users share their comments on any internet webpage. It is for use by everyone.
+          </p> 
           <span>Technology:</span>
           <ul className="tech">
             <li>
@@ -127,8 +128,9 @@ class Projects extends Component {
         <div aria-label='Spanimal Project'>
           <h2>Spanimal</h2>
           <p className="descriptions">
-            App that teaches users spanish translations of animals. Utilizes the linked list data structure to implement the concept of 
-            spaced repition to present users with words that they haven't mastered more often that words that they have.
+            Spanimal is pp that teaches users Spanish translations of animals. It was developed my myself and one other developer of the space of one week. It utilizes the linked list data structure to implement the concept of 
+            spaced repition to present users with words that they haven't mastered more often that words that they have. It is for use by anyone 
+            who wants to spend their free time doing something meaningful by learning a few foreign language words.
           </p>
           <span>Technology:</span>
           <ul className="tech">
